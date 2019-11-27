@@ -5,7 +5,7 @@ npm install -g create-react-app
 
 #create react app
 cd "c:\Workspace"
-create-react-app clu.spa.react
+create-react-app clu.spa.react --typescript
 
 #run react app
 npm install
