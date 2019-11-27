@@ -1,0 +1,12 @@
+#install react modules
+npm install -g create-react-app
+
+#create react app
+cd "c:\Workspace"
+create-react-app clu.spa.react
+
+#reun react app
+cd "c:\Workspace\clu.spa.react"
+npm start
+
+http://localhost:3000
