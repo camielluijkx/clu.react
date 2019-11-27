@@ -8,6 +8,7 @@ cd "c:\Workspace"
 create-react-app clu.spa.react
 
 #run react app
+npm install
 cd "c:\Workspace\clu.spa.react"
 npm start
 
