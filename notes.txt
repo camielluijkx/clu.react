@@ -1,3 +1,5 @@
+https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+
 #install react modules
 npm install -g create-react-app
 
@@ -5,7 +7,7 @@ npm install -g create-react-app
 cd "c:\Workspace"
 create-react-app clu.spa.react
 
-#reun react app
+#run react app
 cd "c:\Workspace\clu.spa.react"
 npm start
 
