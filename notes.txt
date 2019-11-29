@@ -3,7 +3,7 @@ https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
 #install react modules
 npm install -g create-react-app
 
-#create react app
+#create react app with typescript
 cd "c:\Workspace"
 create-react-app clu.spa.react --typescript
 
@@ -13,3 +13,6 @@ cd "c:\Workspace\clu.spa.react"
 npm start
 
 http://localhost:3000
+
+#install flux
+npm install --save flux
