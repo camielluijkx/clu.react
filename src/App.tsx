@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import SomeComponent from './SomeComponent'
 
 // const App: React.FC = () => {
 //   return (
@@ -26,7 +27,8 @@ import './App.css';
 const App: React.FC = () => {
   return (
     <div className="greeting">
-      <h1>Hello World!</h1>
+      <h1>Hello from application!</h1>
+      <SomeComponent/>
     </div>
   );
 }
